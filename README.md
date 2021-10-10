@@ -1,5 +1,4 @@
 # Hacktober_fest
 
-accepting codes for hacktoberfest 2021
-accepting cpp codes
-
+Accepting cpp codes for Hacktober fest!
+You can also put your codes in any languages.
